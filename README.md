@@ -36,3 +36,11 @@ _Parágrafos e quebras de linha_
 - \<p>\</p>: Parágrafos
 - \<br>: Quebra de linha
 - \&lt; e \&gt;: para representar o < > no HTML
+
+### Exercício 3
+_Símbolos especiais_
+- \&reg;: Marca registrada
+- \&copy;: Copyright
+- \&trade;: TM
+_Emojis_
+- \&#xCODE;, EXEMPLO: \&#X1F596;
