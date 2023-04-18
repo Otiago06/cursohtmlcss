@@ -27,5 +27,5 @@ Mb - Megabit (transmição de dados)
 - 1024 ZB = 1 YB
 
 ### Exercício 1
-- <h1></h1>: Título
-- <p></p>: Parágrafos
+- \<h1>\</h1>: Título
+- \<p>\</p>: Parágrafos
