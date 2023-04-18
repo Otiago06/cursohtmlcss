@@ -42,5 +42,6 @@ _Símbolos especiais_
 - \&reg;: Marca registrada
 - \&copy;: Copyright
 - \&trade;: TM
+
 _Emojis_
 - \&#xCODE;, EXEMPLO: \&#X1F596;
