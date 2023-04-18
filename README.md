@@ -44,4 +44,5 @@ _Símbolos especiais_
 - \&trade;: TM
 
 _Emojis_
-- \&#xCODE;, EXEMPLO: \&#X1F596;
+- \&#x e o código, seguido por ;
+- EXEMPLO: \&#X1F596;
