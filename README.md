@@ -35,4 +35,4 @@ _Estrutura básica e primeiras tags_
 _Parágrafos e quebras de linha_
 - \<p>\</p>: Parágrafos
 - \<br>: Quebra de linha
-- \&lt; e \&gt;: para representar o < >
+- \&lt; e \&gt;: para representar o < > no HTML
