@@ -33,6 +33,6 @@ _Estrutura básica e primeiras tags_
 
 ### Exercício 2
 _Parágrafos e quebras de linha_
-\<p>\</p>: Parágrafos
-\<br>: Quebra de linha
-\&lt; e &gt;: para representar o < >
+- \<p>\</p>: Parágrafos
+- \<br>: Quebra de linha
+- \&lt; e \&gt;: para representar o < >
