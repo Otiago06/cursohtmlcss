@@ -27,5 +27,12 @@ Mb - Megabit (transmição de dados)
 - 1024 ZB = 1 YB
 
 ### Exercício 1
+_Estrutura básica e primeiras tags_
 - \<h1>\</h1>: Título
 - \<p>\</p>: Parágrafos
+
+### Exercício 2
+_Parágrafos e quebras de linha_
+\<p>\</p>: Parágrafos
+\<br>: Quebra de linha
+\&lt; e &gt;: para representar o < >
