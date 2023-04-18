@@ -43,6 +43,12 @@ _Símbolos especiais_
 - \&copy;: Copyright
 - \&trade;: TM
 
-_Emojis_
+_Emojis_ https://emojipedia.org/
 - \&#x e o código, seguido por ;
 - EXEMPLO: \&#X1F596;
+
+### Exercício 4
+_Trabalhando com imagens_
+- https://unsplash.com/pt-br
+- https://www.pexels.com/pt-br/
+- 
